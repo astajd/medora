@@ -1,0 +1,138 @@
+.test3 {
+    display: none;
+}
+
+.gdc-container-modal > .gdc-title,
+.gdc-container > .gdc-title
+{
+    display: none;
+}
+
+.gdc-container {
+    width: 100%;
+    margin-inline: auto;
+    background-color: rgba(132, 190, 228, 1);
+    z-index: 9999999999 !important;
+}
+
+
+.gdc-content {
+    max-width: 40%;
+    margin-inline: auto;
+}
+
+.gdc-description {
+    text-align: center;
+    color: #11131e;
+}
+
+.gdc-options {
+    margin-inline: auto;
+    max-width: 40%;
+}
+
+.gdc-btnHolder {
+    justify-content: space-evenly;
+}
+
+.gdc-cookiePolicyHolder {
+    margin-top: 20px;
+}
+
+.gdc-cookiePolicyHolder a {
+    color: #fff;
+}
+
+
+.gdc-button {
+    background-color: #012B59;
+    color: white !important;
+    border-width: 0 !important;
+}
+
+.gdc-options input[type=checkbox] + label:before {
+    border: solid 1px #012B59;
+}
+
+.gdc-button.test3, .gdc-button.test2 {
+    background-color: #4d94e1;
+}
+
+
+.gdc-options input[type=checkbox][disabled]:checked + label:before {
+    background-color: rgb(114, 165, 199);
+    border: 1px solid rgb(114, 165, 199);
+    color: #000;
+}
+
+
+.gdc-smallTxt-splitter {
+    border-bottom: solid 1px rgb(96, 141, 170);
+}
+
+
+
+.gdc-cookieSettings {
+    position: fixed;
+    bottom: 17px;
+    left: 20px;
+    width: 45px;
+    height: 45px;
+    z-index: 9998;
+    cursor: pointer;
+    background: url(../img/cookies.svg) 50% 50% no-repeat;
+    box-shadow: 0 3px 10px rgba(0, 0, 0, .3);
+    border-radius: 100%;
+    display: none;
+}
+
+
+@media screen and (max-width: 1199px) { 
+
+    .gdc-content, .gdc-options {
+        max-width: 70%;
+    }
+
+}
+
+@media screen and (max-width: 768px) { 
+
+    .gdc-content, .gdc-options {
+        max-width: 90%;
+    }
+}
+
+@media screen and (max-width: 479px) { 
+
+    .gdc-cookieSettings {
+        bottom: 70px;
+    }
+}
+
+@media screen and (max-width: 575px) {
+    .gdc-btnHolder {
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .gdc-button {
+        margin-bottom: 0;
+        flex: 0 0 calc(50% - 10px);
+    }
+
+    .gdc-button.test3 {
+        flex: 0 0 96%;
+        margin-bottom: 10px;
+    }
+
+
+    .gdc-button.test1 {
+        margin-left: 5px;
+    }
+
+    .gdc-button.test2 {
+        margin-right: 5px;
+    }
+
+}

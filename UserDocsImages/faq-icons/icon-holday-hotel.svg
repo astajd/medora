@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="56.7" height="56.7" viewBox="0 0 56.7 56.7">
+  <g id="icon-holday-hotel" transform="translate(-3.65 -3.65)">
+    <rect id="Rectangle_9" data-name="Rectangle 9" width="26" height="2" rx="1" transform="translate(19 23)" stroke="#000" stroke-linecap="round" stroke-width="0.7"/>
+    <rect id="Rectangle_10" data-name="Rectangle 10" width="12" height="2" rx="1" transform="translate(19 13)" stroke="#000" stroke-width="0.7"/>
+    <rect id="Rectangle_23" data-name="Rectangle 23" width="11" height="2" rx="1" transform="translate(34 13)" stroke="#000" stroke-width="0.7"/>
+    <rect id="Rectangle_11" data-name="Rectangle 11" width="26" height="2" rx="1" transform="translate(19 33)" stroke="#000" stroke-width="0.7"/>
+    <path id="Path_103" data-name="Path 103" d="M55,26H52V9a5,5,0,0,0-5-5H17a5,5,0,0,0-5,5V26H9a5,5,0,0,0-5,5V55a5,5,0,0,0,5,5H55a5,5,0,0,0,5-5V31a5,5,0,0,0-5-5ZM6,55V31a3,3,0,0,1,3-3h3V58H9A3,3,0,0,1,6,55Zm8-28V9a3,3,0,0,1,3-3H47a3,3,0,0,1,3,3V58H38.5V46a5,5,0,0,0-5-5h-3a5,5,0,0,0-5,5V58H14ZM27.5,58V46a3,3,0,0,1,3-3h3a3,3,0,0,1,3,3V58ZM58,55a3,3,0,0,1-3,3H52V28h3a3,3,0,0,1,3,3Z" stroke="#000" stroke-width="0.7"/>
+  </g>
+</svg>

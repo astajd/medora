@@ -1,0 +1,3973 @@
+﻿@media screen and (min-width: 1459px) {
+    .container {
+        width: 1440px;
+    }
+}
+
+
+@media screen and (max-width: 1800px) {
+    .special-offers-home img {
+        border-radius: 0;
+    }
+}
+
+@media screen and (max-width: 1639px) {
+
+    .owl-controls .owl-nav {
+        top: auto;
+        bottom: 0;
+    }
+
+    .owl-controls .owl-prev {
+        left: 50%;
+        top: auto;
+        bottom: -10px;
+    }
+
+    .owl-controls .owl-next {
+        right: 50%;
+        top: auto;
+        bottom: -10px;
+    }
+
+    .owl-controls .owl-prev::before,
+    .owl-controls .owl-next::before {
+        font-size: 30px;
+    }
+
+    .home-slider .owl-controls .owl-nav {
+        top: 50%;
+        bottom: auto;
+    }
+
+    .home-slider .owl-controls .owl-prev {
+        left: 40px;
+        top: 50%;
+        bottom: auto;
+    }
+
+    .home-slider .owl-controls .owl-next {
+        right: 40px;
+        top: 50%;
+        bottom: auto;
+    }
+
+    .facilities .owl-carousel .owl-nav,
+    .awards .owl-carousel .owl-nav,
+    .gallery-squares .owl-nav {
+        bottom: -110px;
+    }
+
+    .gallery-squares .owl-controls .owl-prev {
+        margin-left: -160px;
+    }
+
+    .gallery-squares .owl-controls .owl-next {
+        margin-right: -160px;
+    }
+
+    .phone-desktop {
+        position: absolute;
+        right: -120px;
+        top: -40px;
+        margin-top: 0;
+    }
+
+    footer .newsletter-gdpr {
+        font-size: 14px;
+    }
+
+
+
+}
+
+
+@media screen and (max-width: 1459px) {
+    .right-side-header {
+        right: 20px;
+    }
+
+    header .logo {
+        margin: 9px 0 8px 20px;
+    }
+
+    header .lang-select {
+        margin: 0 20px;
+    }
+
+    .btn {
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+
+    .btn+.btn-ghost {
+        margin-left: -20px;
+    }
+
+    .btn-ghost {
+        margin-right: 0;
+    }
+
+    .special-offers-home-content h2 {
+        font-size: 35px;
+        margin: 0 0 30px 0;
+    }
+
+    .special-offers-home-content h3 {
+        font-size: 20px;
+        margin: 0 0 40px 0;
+    }
+
+    .direct-benefits,
+    .special-offers,
+    .text-centered-block,
+    .featured,
+    .facilities,
+    .experience,
+    .location,
+    .awards,
+    .landing-text-block,
+    .special-dark-block,
+    .amenities-facilities,
+    .landing-intro {
+        padding-top: 80px;
+    }
+
+    .direct-benefits .art-pic {
+        top: 240px;
+    }
+
+    .direct-benefits .section-body {
+        padding-left: 348px;
+    }
+
+    .direct-benefits-item {
+        width: 348px;
+    }
+
+    .home-benefits-inner {
+        height: 560px;
+    }
+
+    .home-benefits-title {
+        font-size: 35px;
+        line-height: 35px;
+    }
+
+    .home-benefits-subtitle {
+        margin-top: 0px;
+    }
+
+    .home-benefits-button {
+        margin-top: 50px;
+    }
+
+    .home-benefits-content ul {
+        width: 257px;
+        margin-left: 30px;
+    }
+
+    .home-benefits-content ul.hbc-list {
+        width: 60px;
+        margin-left: 30px;
+    }
+
+    .home-benefits-content .benefit-name {
+        font-size: 22px;
+    }
+
+
+    .featured .container,
+    .experience .container {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+
+    .featured-item-body {
+        width: 445px;
+    }
+
+    .featured-item-art .big-pic {
+        width: 610px;
+    }
+
+    .featured-item-art .small-pic {
+        width: 330px;
+    }
+
+    footer .social a {
+        width: 35px;
+        height: 35px;
+    }
+
+    footer .social a span {
+        line-height: 35px;
+    }
+
+    .book-now-wrapper .medora-logo {
+        width: 120px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .book-now-inner .container {
+        padding: 40px;
+    }
+
+    .book-now-wrapper .section-title {
+        font-size: 40px;
+        margin-top: 45px;
+    }
+
+    .book-form>div {
+        padding-top: 50px;
+        padding-bottom: 50px;
+        padding-right: 50px;
+    }
+
+    .book-now-benefits-title {
+        margin-top: 55px;
+        font-size: 25px;
+    }
+
+    .book-now-benefits .direct-benefits-item {
+        padding-left: 30px;
+        padding-top: 30px;
+    }
+
+    .book-now-benefits .direct-benefits-item ul {
+        padding-left: 35px;
+    }
+
+    .book-now-benefits .direct-benefits-item .dbi-title {
+        font-size: 20px;
+        line-height: 25px;
+    }
+
+    .book-now-benefits .direct-benefits-item .numeral {
+        font-size: 18px;
+    }
+
+    .hero-img .hi-text {
+        padding-right: 320px;
+        bottom: 60px;
+    }
+
+    .jump-below-fold {
+        font-size: 40px;
+        width: 40px;
+        height: 40px;
+        bottom: 40px;
+    }
+
+    /* .path { */
+    /* padding: 45px 0; */
+    /* } */
+
+    header+.path {
+        padding-top: 185px;
+    }
+
+    header.sticky+.path {
+        padding-top: 125px;
+    }
+
+    .phone-desktop {
+        position: relative;
+        right: auto;
+        top: auto;
+        margin-top: 58px;
+        margin-left: 40px;
+    }
+
+    .landing-intro .container {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+
+    .blk-body,
+    .blk-pic {
+        max-width: 565px;
+    }
+
+    .facilities .owl-carousel .owl-nav,
+    .awards .owl-carousel .owl-nav {
+        bottom: -110px;
+    }
+
+    .home-slider-wrapper .badge {
+        right: 45px;
+        bottom: 45px;
+    }
+
+    .landing-tb-inner {
+        padding-left: 97px;
+        padding-right: 97px;
+    }
+
+    .grid-item {
+        width: 350px;
+        /* margin-top: 50px; */
+    }
+
+    .grid-2 .grid-item {
+        width: 47%;
+    }
+
+    .grid-item .grid-item-btn .btn.btn-ghost {
+        margin-right: 0;
+    }
+
+    .grid-item .grid-item-btn .btn+.btn-ghost {
+        margin-left: -20px;
+    }
+
+    .list-with-checks {
+        padding-left: 194px;
+        padding-right: 194px;
+    }
+
+    .landing-short-features ul li {
+        font-size: 25px;
+        line-height: 30px;
+    }
+
+    .landing-short-features .feature-pos1 {
+        padding-right: 80px;
+    }
+
+    .landing-short-features .feature-pos2 {
+        padding-left: 80px;
+        padding-right: 80px;
+    }
+
+    .landing-short-features .feature-pos3 {
+        padding-left: 80px;
+    }
+
+    .gallery-squares .container {
+        padding-left: 120px;
+        padding-right: 120px;
+    }
+
+    .grid-2 .grid-item {
+        width: 545px;
+    }
+
+    .grid-2 .grid-item .grid-item-title,
+    .grid-2 .grid-item .grid-item-text,
+    .grid-2 .grid-item .grid-item-btn {
+        padding-left: 90px;
+        padding-right: 90px;
+    }
+
+    .contact-form {
+        padding-left: 120px;
+        padding-right: 120px;
+    }
+
+    .contact-form .half-col {
+        width: 425px;
+    }
+
+    .hero-info-block {
+        padding: 40px;
+    }
+
+    .hib-button {
+        padding-top: 20px;
+    }
+
+    .hib-features {
+        margin-top: 20px;
+        padding-top: 20px;
+    }
+
+    .hib-info {
+        margin-top: 20px;
+    }
+
+    .hib-info-title {
+        font-size: 25px;
+        line-height: 30px;
+    }
+
+    .hib-info-label,
+    .hib-info-addition {
+        font-size: 15px;
+    }
+
+    .hib-info-addition {
+        margin-top: 20px;
+    }
+
+    .faq-cats a {
+        width: 267px;
+    }
+
+    .tableZones {
+        width: 1120px !important;
+        margin-left: -100px;
+        margin-right: -100px;
+    }
+
+    .gallery-thumbs a {
+        width: 252px;
+    }
+
+    .newsletter {
+        margin-top: 80px;
+        padding: 80px 0;
+    }
+
+    footer .newsletter-gdpr {
+        font-size: 14px;
+    }
+
+}
+
+@media screen and (max-width:1350px) {
+    .booking-block {
+        margin-top: 13px;
+    }
+
+    .logo {
+        display: none;
+    }
+
+    .promo-holder {
+        margin-left: 10px;
+    }
+
+    .booking-period {
+        margin-left: 10px;
+        /* width:230px; */
+    }
+
+    .booking-block-inner .broj-gostiju {
+        margin-left: 10px;
+    }
+
+    .booking-block .btn-submit-check {
+        margin-left: 10px;
+    }
+
+    .path3 {
+        padding: 110px 0 0 0;
+    }
+
+    .page-sub-nav {
+        height: 90px;
+    }
+
+    .page-sub-nav ul {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .page-sub-nav ul li {
+        margin-right: 50px;
+    }
+
+}
+
+@media screen and (min-width: 1200px) and (max-width: 1350px) {
+
+    /* fix kontakt header top */
+    header .call-toggler-novi,
+    header .send-inquiry {
+        padding: 8px 10px;
+    }
+
+    header .lang-select {
+        margin: 0 12px;
+    }
+
+    /* fix kontakt header top DE */
+    .de .header-main-cats {
+        left: 46%;
+    }
+
+    header .ctn-dropdown.desktop::after {
+        left: -65%;
+    }
+}
+
+@media screen and (max-width: 1199px) {
+
+
+.pop-toggle{
+		margin-left:10px;
+	}
+
+
+	.header-main-cats {
+		left: 38%;
+	}
+
+	.header-main-cats li:last-child {
+		margin: 0 0 0 0px;
+	}
+	
+	.header-main-cats li a{
+		font-size:15px;
+	}
+
+
+    /* .header-main-cats { */
+        /* left: 45%; */
+    /* } */
+
+    .broj-gostiju {
+        margin-left: 0 !important;
+        padding: 8px 34px 8px 20px !important;
+    }
+
+    .btn {
+        font-size: 15px;
+        padding: 12px 30px;
+    }
+
+    .btn>span {
+        font-size: 16px;
+        margin-left: 15px;
+    }
+
+    h2 {
+        font-size: 40px;
+    }
+
+    header+.home-benefits-hero,
+    header+.hero-img {
+        padding-top: 140px;
+    }
+
+    header.sticky+.home-benefits-hero,
+    header.sticky+.hero-img {
+        padding-top: 140px;
+    }
+
+    header .logo {
+        margin: 9px 0 8px 15px;
+    }
+
+    .right-side-header {
+        right: 15px;
+    }
+
+    header .lang-menu {
+        left: -40px;
+        top: 47px;
+        width: 140px;
+        padding: 15px 0 15px 40px;
+    }
+
+    .home-slider .owl-controls .owl-nav {
+        margin-top: 0;
+    }
+
+    .home-slider .owl-controls .owl-prev {
+        left: 25px;
+    }
+
+    .home-slider .owl-controls .owl-next {
+        right: 25px;
+    }
+
+    .home-slider .hi-text .hi-title {
+        font-size: 50px;
+        line-height: 45px;
+    }
+
+    .home-slider .hi-text .hi-desc {
+        font-size: 20px;
+        margin-top: 30px;
+    }
+
+    .home-slider .hi-text .hi-button {
+        margin-top: 30px;
+    }
+
+    .path3 {
+        padding: 45px 0 0 0;
+    }
+
+    .section-title {
+        font-size: 40px;
+    }
+
+    .section-lead {
+        margin-top: 30px;
+    }
+
+    .section-bottom {
+        margin-top: 40px;
+    }
+
+    .direct-benefits,
+    .special-offers,
+    .text-centered-block,
+    .featured,
+    .facilities,
+    .experience,
+    .location,
+    .awards,
+    .landing-text-block,
+    .special-dark-block,
+    .amenities-facilities,
+    .landing-intro {
+        padding-top: 60px;
+    }
+
+    .direct-benefits .section-body {
+        padding-left: 290px;
+    }
+
+    .direct-benefits-item {
+        width: 290px;
+        padding-top: 40px;
+        padding-bottom: 40px;
+        margin-left: 30px;
+    }
+
+    .direct-benefits-item ul {
+        padding-left: 50px;
+    }
+
+    .direct-benefits-item .numeral {
+        font-size: 20px;
+    }
+
+    .direct-benefits-item .dbi-title {
+        font-size: 25px;
+    }
+
+    .direct-benefits-item .dbi-desc {
+        margin-top: 20px;
+    }
+
+    .direct-benefits .art-pic {
+        left: 5%;
+    }
+
+
+    /*	.booking-period input, .booking-period input:focus { width: 200px; line-height: 18px; padding-top: 0; padding-bottom: 0; height: 18px; }*/
+    .booking-period,
+    .booking-block .btn-submit-check {
+        margin-left: 8px;
+    }
+
+    .booking-acc-type .bootstrap-select .btn .filter-option,
+    .booking-period input,
+    .booking-period input:focus,
+    .booking-block,
+    .booking-acc-type .bootstrap-select .dropdown-menu>li.selected a {
+        font-size: 13px;
+    }
+
+    .booking-period .textbox {
+        padding-left: 10px;
+        width: auto;
+    }
+
+    .booking-acc-type .bootstrap-select.btn-group .dropdown-toggle .caret {
+        top: 13px;
+        right: 20px;
+    }
+
+    .booking-acc-type {
+        width: auto;
+    }
+
+    .booking-period {
+        width: 215px;
+    }
+
+    .booking-period.promo-holder,
+    .booking-period.promo-holder input {
+        width: 140px;
+    }
+
+    .booking-acc-type .bootstrap-select .btn {
+        padding-left: 12px;
+    }
+
+    .broj-wrap {
+        margin-left: 5px;
+    }
+
+    /* .promo-holder, .promo-holder input{width:120px;overflow:hidden;} */
+    .home-benefits-inner {
+        height: 480px;
+    }
+
+    .home-benefits-title {
+        font-size: 30px;
+        line-height: 1.4;
+    }
+
+    .home-benefits-subtitle {
+        font-size: 40px;
+        line-height: 50px;
+        margin-top: -20px;
+    }
+
+    .home-benefits-button {
+        margin-top: 40px;
+    }
+
+    .home-benefits-content ul {
+        width: 214px;
+        margin-left: 20px;
+        padding-top: 40px;
+        padding-bottom: 25px;
+        margin-top: 70px;
+    }
+
+    .home-benefits-content ul.hbc-list {
+        top: 5px;
+        margin-left: 20px;
+    }
+
+    .home-benefits-content .benefit-icon {
+        top: -40px;
+        width: 62px;
+        height: 62px;
+        margin-left: -30px;
+    }
+
+    .home-benefits-content .benefit-icon img {
+        height: 32px;
+        margin-top: 15px;
+    }
+
+    .home-benefits-content .benefit-title {
+        font-size: 15px;
+    }
+
+    .home-benefits-content .benefit-name {
+        font-size: 20px;
+        margin-top: 5px;
+    }
+
+    .text-centered-block .text-centered-inner {
+        max-width: 650px;
+    }
+
+    .text-centered-block .section-title {
+        font-size: 25px;
+        line-height: 30px;
+    }
+
+    .text-centered-block .section-body {
+        margin-top: 30px;
+    }
+
+    .special-offers .owl-carousel {
+        margin-top: 50px;
+    }
+
+    .featured-item-body {
+        width: 370px;
+    }
+
+    .featured-item-title {
+        font-size: 40px;
+        line-height: 45px;
+        margin-top: 20px;
+    }
+
+    .featured-item-desc {
+        margin-top: 40px;
+        padding-right: 40px;
+    }
+
+    .featured-item-btn {
+        margin-top: 30px;
+    }
+
+    .featured-item-art .big-pic {
+        width: 480px;
+    }
+
+    .featured-item-art .small-pic {
+        width: 290px;
+        top: 230px;
+    }
+
+    footer {
+        margin-top: 100px;
+    }
+
+    footer .link-group {
+        width: 28%;
+        margin: 0 5% 5% 0;
+    }
+
+    footer .link-group:last-child {
+        width: 50%;
+    }
+
+    footer .link-group-title {
+        font-size: 18px;
+    }
+
+    footer .link-group .link-list li {
+        margin-top: 10px;
+    }
+
+    .book-form .bootstrap-select .btn .filter-option,
+    .book-form .bootstrap-select.btn-group .dropdown-toggle .caret::before,
+    .book-form .book-form-dates {
+        font-size: 20px;
+    }
+
+    .book-now-benefits .direct-benefits-item .dbi-desc {
+        margin-top: 10px;
+    }
+
+    .book-form .confirm-btn {
+        width: 210px;
+    }
+
+    .hero-img .hi-text {
+        padding-right: 280px;
+        bottom: 40px;
+    }
+
+    .hero-img .hi-text .hi-desc {
+        font-size: 16px;
+    }
+
+    .jump-below-fold {
+        display: none;
+        font-size: 40px;
+        width: 40px;
+        height: 40px;
+        bottom: 20px;
+    }
+
+    .path {
+        padding: 40px 0 0 0;
+    }
+
+    header+.path {
+        padding-top: 180px;
+    }
+
+    header.sticky+.path {
+        padding-top: 120px;
+    }
+
+    .page-sub-nav ul li {
+        font-size: 14px;
+        margin-left: 30px;
+    }
+
+    .blk-body,
+    .blk-pic {
+        max-width: 465px;
+    }
+
+    .blk-body .blk-text {
+        margin-top: 20px;
+        padding-right: 60px;
+    }
+
+    .facilities .owl-carousel {
+        padding-top: 50px;
+        padding-bottom: 0;
+    }
+
+    .facilities .owl-carousel .owl-item a {
+        font-size: 18px;
+    }
+
+    .facilities .owl-carousel .owl-nav {
+        bottom: -95px;
+    }
+
+    .facilities .owl-carousel .owl-prev {
+        margin-left: -140px;
+    }
+
+    .facilities .owl-carousel .owl-next {
+        margin-right: -140px;
+    }
+
+    .experience .owl-carousel {
+        padding-top: 50px;
+    }
+
+    .experience .owl-item {
+        min-height: 440px;
+    }
+
+    .hash-tabs {
+        margin-top: 50px;
+    }
+
+    .hash-tabs a {
+        padding: 0 15px;
+        font-size: 18px;
+    }
+
+    .awards .owl-carousel .owl-item .award-logo {
+        margin-bottom: 10px;
+    }
+
+    .awards .owl-carousel {
+        padding-top: 20px;
+        padding-bottom: 0;
+    }
+
+    .awards .owl-carousel .owl-nav {
+        bottom: -95px;
+    }
+
+    .awards .owl-carousel .owl-prev {
+        margin-left: -160px;
+    }
+
+    .awards .owl-carousel .owl-next {
+        margin-right: -160px;
+    }
+
+    .location .destination-map {
+        margin-top: 40px;
+    }
+
+    .home-slider-wrapper .badge {
+        right: 30px;
+        bottom: 30px;
+        width: 100px;
+        height: 100px;
+    }
+
+    .home-slider-wrapper .badge span {
+        font-size: 16px;
+        line-height: 18px;
+    }
+
+    .path+.landing-text-block {
+        padding-top: 30px;
+    }
+
+    .landing-tb-inner {
+        padding-left: 0;
+        padding-right: 0;
+    }
+
+    .grid-3 {
+        margin-left: -15px;
+        margin-right: -15px;
+    }
+
+    .grid-item {
+        width: 288px;
+        margin-top: 30px;
+        margin-left: 15px;
+        margin-right: 15px;
+    }
+
+    .grid-item img {
+        margin-bottom: 30px;
+    }
+
+    .grid-item .grid-item-title {
+        font-size: 25px;
+    }
+
+    .grid-item .grid-item-text,
+    .grid-item .grid-item-features,
+    .grid-item .grid-item-btn {
+        margin-top: 20px;
+    }
+
+    .grid-item .grid-item-features li {
+        font-size: 18px;
+    }
+
+    .grid-item .grid-item-btn .btn.btn-ghost {
+        margin-right: 0;
+    }
+
+    .grid-item .grid-item-btn .btn+.btn-ghost {
+        margin-left: -20px;
+    }
+
+    .grid-item .grid-item-pic span {
+        font-size: 50px;
+        margin: -40px 0 0 -25px;
+    }
+
+    .list-with-checks {
+        padding-left: 80px;
+        padding-right: 80px;
+        padding-top: 30px;
+    }
+
+    .list-with-checks ul li {
+        font-size: 18px;
+        line-height: 25px;
+    }
+
+    .special-dark-block {
+        padding-bottom: 70px;
+        margin-top: 70px;
+    }
+
+    .landing-sf-inner>div {
+        padding-bottom: 40px;
+    }
+
+    .landing-short-features ul li {
+        font-size: 20px;
+        line-height: 25px;
+    }
+
+    .landing-short-features .feature-pos1 {
+        padding-right: 40px;
+    }
+
+    .landing-short-features .feature-pos2 {
+        padding-left: 40px;
+        padding-right: 40px;
+    }
+
+    .landing-short-features .feature-pos3 {
+        padding-left: 40px;
+    }
+
+    .path+.landing-short-features {
+        padding-top: 0;
+    }
+
+    .gallery-squares {
+        padding-top: 50px;
+    }
+
+    .gallery-squares .container {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+
+    .gallery-squares .owl-nav {
+        bottom: -110px;
+    }
+
+    .gallery-squares .owl-controls .owl-prev {
+        margin-left: -150px;
+    }
+
+    .gallery-squares .owl-controls .owl-next {
+        margin-right: -150px;
+    }
+
+    .gallery-squares .owl-nav {
+        bottom: -95px;
+    }
+
+    .grid-2 .grid-item {
+        width: 455px;
+    }
+
+    .grid-2 .grid-item .grid-item-title,
+    .grid-2 .grid-item .grid-item-text,
+    .grid-2 .grid-item .grid-item-btn {
+        padding-left: 60px;
+        padding-right: 60px;
+    }
+
+    .contact-form {
+        padding-left: 20px;
+        padding-right: 20px;
+        margin-top: 0;
+    }
+
+    .contact-form .half-col {
+        width: 425px;
+    }
+
+    #porukaok {
+        margin-top: 40px;
+    }
+
+    .hero-info-block {
+        width: 320px;
+        bottom: -60px;
+    }
+
+    .hib-features {
+        display: none;
+    }
+
+    .faq {
+        padding-top: 20px;
+    }
+
+    .faq-cats a {
+        width: 217px;
+        padding: 40px 20px;
+    }
+
+    .faq-cats a .title {
+        font-size: 18px;
+        margin-top: 20px;
+    }
+
+    .faq-search {
+        max-width: 80%;
+        margin-top: 40px;
+    }
+
+    .faq-search .search-field input {
+        font-size: 20px;
+        padding-top: 15px;
+        padding-bottom: 16px;
+    }
+
+    .faq-search .search-btn .btn {
+        padding-top: 15px;
+        padding-bottom: 16px;
+    }
+
+    .quick-searches {
+        margin-top: 40px;
+        max-width: 100%;
+    }
+
+    .faq-cats {
+        padding-top: 50px;
+    }
+
+    .tableZones {
+        width: 950px !important;
+        margin-left: -150px;
+        margin-right: -150px;
+        margin-top: 0;
+    }
+
+    .tableZones td img {
+        width: 70% !important;
+    }
+
+    .gallery-thumbs a {
+        width: 212px;
+        margin: 15px;
+    }
+
+    .gallery-thumbs a:hover img {
+        transform: none;
+    }
+
+    .table-results .tr-date {
+        width: 110px;
+    }
+
+    .table-results .tr-time {
+        width: 80px;
+    }
+
+    .table-results .tr-location {
+        width: 240px;
+    }
+
+    .newsletter {
+        margin-top: 60px;
+        padding: 60px 0;
+    }
+
+    .newsletter ul {
+        margin-top: 30px;
+        width: 95%;
+    }
+
+    .newsletter ul .textbox {
+        padding-top: 15px;
+        padding-bottom: 15px;
+    }
+
+    li.benefit-icon.special-discount img {
+        height: 40px;
+        margin-top: 13px;
+
+    }
+}
+
+@media screen and (min-width: 992px) and (max-width: 1050px) {
+
+    /* fix kontakt header top */
+    header .call-toggler-novi,
+    header .send-inquiry {
+        padding: 8px 10px;
+    }
+}
+
+@media screen and (min-width: 992px) and (max-width: 1350px) {
+
+    header .ctn-dropdown.desktop::after {
+        left: -65%;
+    }
+}
+
+@media screen and (max-width: 991px) {
+    .popUp-content h2 {
+        font-size: 30px;
+    }
+
+    .add_space_desktop {
+        margin-top: 0px;
+    }
+
+    .add_space_mobile {
+        padding-top: 5px;
+    }
+
+    .error-keyup-7 {
+        font-size: 12px;
+    }
+
+    .upit_datum_label_space {
+        margin-top: 0;
+    }
+
+    .benefits-wrapper .home-title {
+        font-size: 22px;
+    }
+
+    header .logo {
+        margin: 21px 0 8px 15px;
+    }
+
+    header .logo img {
+        width: 110px;
+        height: 33px;
+    }
+
+    header+.path2 {
+        padding-top: 140px;
+    }
+
+    header .call-toggler-novi {
+        display: none;
+    }
+
+    .page-sub-nav.sticky,
+    .page-sub-nav {
+        top: 117px;
+        height: 100px;
+    }
+
+    .page-sub-nav ul li {
+        margin-right: 25px;
+    }
+
+    .path3 {
+        padding: 130px 0 0 0;
+    }
+
+    .path {
+        padding: 30px 0 0 0;
+    }
+
+    .grid-item {
+        margin-top: 30px;
+    }
+
+    .booking-block .btn-submit-check:hover {
+        background: #009bdb;
+    }
+
+    .fixed-btns,
+    .fixed-btns .btn-submit-check {
+        display: block;
+    }
+
+    .fixed-btns .chooseRoom-mobile {
+        display: none;
+    }
+
+    .room-options::after {
+        display: none;
+    }
+
+    .room-options a {
+        width: 100% !important;
+        display: flex;
+        felx-wrap: nowrap;
+
+    }
+
+
+    .header-main-cats {
+        -webkit-transform: none;
+        transform: none;
+        left: 0;
+        right: 0;
+        top: 100%;
+        background: #ededed;
+        height: 45px;
+        text-align: center;
+        line-height: 45px;
+    }
+
+    .header-main-cats li.active a::after {
+        bottom: -14px;
+        height: 3px;
+    }
+
+    .benefits-wrapper,
+    .rooms-wrapper {
+        padding: 60px 20px;
+    }
+
+    .gallery-view-all {
+        padding: 5px 30px 10px 30px;
+    }
+
+    .gallery-list {
+        padding: 0 20px;
+    }
+
+    .gallery-list li {
+        margin: 0 5px;
+    }
+
+    .gallery-list li:first-child {
+        margin: 0 5px 0 0;
+    }
+
+    .gallery-list li:last-child {
+        margin: 0 0 0 5px;
+    }
+
+    .benefits-inner-wrapper img {
+        max-width: 180px;
+    }
+
+    .special-offers-home-content {
+        top: 50%;
+        left: 20px;
+        right: 20px;
+        line-height: 1.3;
+        -webkit-transform: translateY(-50%);
+        transform: translateY(-50%);
+    }
+
+    .broj-wrap {
+        display: block;
+        width: 100%;
+        max-width: 250px;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 20px;
+    }
+
+    .booking-block-inner .broj-gostiju {
+        top: 0;
+        width: 250px;
+        margin: 0;
+        overflow-y: auto;
+    }
+
+    .change_qty li input {
+        padding: 0;
+    }
+
+    .change_qty li .action-handle span {
+        top: 4px;
+    }
+
+    .broj-forma {
+        position: relative;
+        width: 250px;
+        text-align: center;
+    }
+
+    .change_qty {
+        display: block;
+        width: 84px;
+        margin: 10px auto;
+    }
+
+    .direct-benefits .art-pic {
+        display: none;
+    }
+
+    .direct-benefits .section-body {
+        padding-left: 0;
+    }
+
+    .direct-benefits-item {
+        width: 340px;
+        margin-left: 0;
+    }
+
+    .direct-benefits-item:nth-child(2n+2) {
+        margin-left: 30px;
+    }
+
+    .featured-item-body {
+        width: 370px;
+        padding-right: 40px;
+    }
+
+    .featured-item-art {
+        padding-left: 0;
+    }
+
+    .featured-item-art .big-pic {
+        position: relative;
+        width: 340px;
+    }
+
+    .featured-item-art .small-pic {
+        position: relative;
+        width: 340px;
+        right: 0;
+        left: auto;
+        top: auto;
+        margin-top: 30px;
+    }
+
+    .book-form {
+        display: block;
+        padding-bottom: 10px;
+    }
+
+    .book-now-wrapper .section-title {
+        margin-bottom: 40px;
+    }
+
+    .book-form>div {
+        display: block;
+        padding-right: 0;
+        padding-top: 0;
+        padding-bottom: 30px;
+    }
+
+    .book-form .confirm-btn {
+        width: 100%;
+    }
+
+    .book-now-benefits .direct-benefits-item {
+        width: 48%;
+        padding-left: 0;
+        padding-bottom: 0;
+    }
+
+    .book-now-benefits .direct-benefits-item:nth-child(2n+2) {
+        margin-left: 4%;
+    }
+
+    .booking-close {
+        position: absolute;
+        width: 40px;
+        height: 40px;
+        right: 20px;
+        top: 20px;
+        text-align: center;
+        font-size: 20px;
+        color: #fff;
+        opacity: 1;
+        display: block;
+    }
+
+    .booking-close:hover,
+    .booking-close:focus,
+    .booking-close:active {
+        color: #009bdb;
+    }
+
+    .home-benefits-inner {
+        height: 540px;
+    }
+
+    .home-benefits-content ul {
+        width: 240px;
+    }
+
+    /* .home-benefits-content ul:nth-child(2n+1) { margin-left: 0; } */
+    .home-benefits-subtitle {
+        font-size: 30px;
+        line-height: 40px;
+        margin-top: 0px;
+    }
+
+    .blk-body,
+    .blk-pic {
+        max-width: 355px;
+    }
+
+    .blk-body .blk-text {
+        margin-top: 20px;
+        padding-right: 40px;
+    }
+
+    .grid-item {
+        width: 340px;
+    }
+
+    .grid-2 .grid-item {
+        width: 345px;
+    }
+
+    .grid-2 .grid-item .grid-item-title,
+    .grid-2 .grid-item .grid-item-text,
+    .grid-2 .grid-item .grid-item-btn {
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+
+    .contact-form {
+        padding-left: 80px;
+        padding-right: 80px;
+    }
+
+    .contact-form .half-col {
+        width: 100%;
+        margin-left: 0;
+    }
+
+    .contact-form .text-area {
+        height: 240px !important;
+    }
+
+    .experience .owl-item {
+        min-height: 0;
+    }
+
+    .faq-cats a {
+        width: 223px;
+    }
+
+    .faq-cats a:nth-child(4n+1) {
+        margin-left: 20px;
+    }
+
+    .faq-cats a:nth-child(3n+1) {
+        margin-left: 0;
+    }
+
+    .tableZones {
+        width: 100% !important;
+        margin-left: -0;
+        margin-right: -0;
+    }
+
+    .tableZones td img {
+        width: 80% !important;
+    }
+
+    .list-with-checks {
+        padding-left: 0;
+        padding-right: 0;
+    }
+
+    .gallery-thumbs a {
+        width: 220px;
+    }
+
+    .text404 {
+        position: relative;
+        top: auto;
+        width: 100%;
+        margin-left: 0;
+        padding: 40px 60px;
+        transform: none;
+        -webkit-transform: none;
+        text-align: center;
+    }
+
+    .art404 img {
+        margin-left: auto;
+        margin-right: auto;
+        max-width: 60%;
+    }
+
+    .booking-block .btn-primary:hover {
+        background-color: #009bdb;
+    }
+
+    .booking-block {
+        height: auto;
+        padding-top: 0;
+    }
+
+    .booking-block-inner {
+        display: none;
+        padding-bottom: 40px;
+        background: #002B59;
+        padding-top: 40px;
+        box-shadow: 0 15px 30px rgba(0, 0, 0, 0.2);
+        position: fixed;
+        width: 100%;
+        height: 100%;
+        top: 0;
+        z-index: 999999999999;
+    }
+
+    .booking-block-title {
+        display: none;
+        color: #fff;
+        font-family: 'Minion Pro', serif;
+        font-size: 22px;
+        margin: 60px 0;
+    }
+
+    .booking-acc-type,
+    .booking-period {
+        display: block;
+        width: 100%;
+        max-width: 250px;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 20px;
+    }
+
+    .booking-period.promo-holder {
+        display: none;
+    }
+
+    .booking-block .btn-submit-check {
+        margin-left: 0;
+        margin: 20px auto;
+        display: block;
+        width: 250px;
+    }
+
+    .booking-block-inner .select-look {
+        margin: 40px auto !important;
+        width: 250px;
+        display: block;
+    }
+
+
+    header+.home-benefits-hero,
+    header+.hero-img,
+    header+.home-slider-wrapper {
+        padding-top: 117px;
+    }
+
+
+    .booking-block-toggler:before {
+        position: relative;
+        top: .1em;
+        margin-right: .5em;
+    }
+
+    header .ctn-dropdown.desktop {
+        display: none;
+    }
+
+    header .ctn-dropdown.mobile {
+        display: block;
+    }
+
+    footer .link-group {
+        width: 45%;
+    }
+
+    footer .link-group a {
+        font-size: 14px;
+    }
+
+    header+.upit_forma {
+        padding-top: 96px;
+    }
+
+    .newsletter ul {
+        width: 100%;
+    }
+
+    .newsletter ul li {
+        padding-right: 15px;
+    }
+
+    ::placeholder {
+        font-size: 14px;
+    }
+
+    .newsletter ul {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+
+    .newsletter ul li {
+        padding-bottom: 20px;
+    }
+
+    .brojPoruka {
+        bottom: 5px;
+    }
+
+    .newsletter ul li:first-of-type {
+        width: 100%;
+    }
+
+    .newsletter ul li:nth-child(2) {
+        width: 100%;
+        padding-bottom: 35px;
+    }
+
+    /* .de .fixed-btns { */
+        /* top: 16%; */
+    /* } */
+
+    .fixed-btns .ctn-dropdown {
+        right: 0;
+        left: -249px;
+        top: auto;
+        bottom: 0;
+    }
+
+    .fixed-btns .ctn-dropdown::after {
+        top: 0;
+    }
+
+}
+
+
+
+@media only screen and (max-width: 767px) {
+
+    /*ovo*/
+    .mm-lijevi {
+        display: inline-block;
+    }
+
+    .mm-desni {
+        display: none;
+    }
+
+    header .send-inquiry {
+        margin: 0;
+    }
+
+    header {
+        text-align: center;
+        height: 75px;
+
+    }
+
+    header .mobile-menu-trigger {
+        position: relative;
+        top: calc(50% - 20px);
+    }
+
+    .right-side-header {
+        top: calc(50% - 18px);
+    }
+
+    header .send-inquiry {
+        font-size: 15px;
+        font-weight: 600;
+    }
+
+    .pop-toggle {
+        margin: 0;
+        margin-right: 30px;
+        float: none;
+        top: 18px;
+    }
+	
+	header.header-de  .pop-toggle {
+        margin: 0;
+        margin-right: 30px;
+        /* float: none; */
+        top: 18px;
+		left:-15px;
+    }
+	
+
+    .hom-img {
+        max-width: 150px;
+    }
+
+    /*ovo*/
+
+    header {
+        top: 0;
+    }
+
+    .hero-noimg-content.upit_forma {
+        display: none;
+    }
+
+    .home-slider-wrapper picture,
+    .home-slider-wrapper img {
+        aspect-ratio: 767 / 500;
+    }
+
+    .sekcija.upit_forma {
+        margin-top: 15px;
+
+    }
+
+    header+.path.upit_forma {
+        padding-top: 90px;
+    }
+
+    #frmPhobs textarea#client_comment {
+        min-height: auto;
+    }
+
+    .benefits-wrapper .price-subs {
+        font-size: 27px;
+        line-height: 30px;
+    }
+
+    .gallery-list-wrapper {
+        padding: 0;
+    }
+
+    .gallery-list {
+        padding: 0 0 0 20px;
+    }
+
+    .rooms-wrapper {
+        padding: 60px 0 60px 20px;
+    }
+
+    .benefits-inner-wrapper img {
+        max-width: 120px;
+    }
+
+    li.benefit-icon.special-discount img {
+        height: 25px;
+        margin-top: 8px;
+    }
+
+    .cookie-banner {
+        background: rgba(132, 190, 228, 0.95);
+
+    }
+
+
+
+
+
+
+    header .lang-select {
+        display: none;
+    }
+
+    header .langs-mobile .lang-select {
+        display: block;
+        margin: 0;
+    }
+
+    header .lang-select a {
+        color: #ffffff;
+        display: inline-block;
+        width: 100%;
+    }
+
+    .main-menu a:hover {
+        color: #ffffff;
+    }
+
+    header .lang-select a:hover {
+        opacity: 1;
+    }
+
+    header .lang-menu {
+        background: transparent;
+        padding: 20px 0 0 20px;
+        left: auto;
+        top: auto;
+        width: 100%;
+        position: relative;
+    }
+
+    header .lang-select .lang-selected span {
+        display: block;
+        float: right;
+    }
+
+
+    .path3 {
+        padding: 30px 0 0 0;
+    }
+
+    .cb-container {
+        padding: 20px 10px 10px 10px;
+    }
+
+    .not-found header {
+        height: 60px;
+    }
+
+
+    body {
+        font-size: 15px;
+        line-height: 22px;
+    }
+
+    .btn {
+        font-size: 14px;
+        padding: 8px 20px;
+    }
+
+    .btn-ghost,
+    .btn-ghost:focus {
+        border-color: #CDCFD7;
+    }
+
+    .btn-ghost:hover {
+        border-color: #11131E;
+    }
+
+    h2 {
+        font-size: 30px;
+        line-height: 30px;
+    }
+
+    .hide-above-mobile {
+        display: block;
+    }
+
+    .hide-below-tablet {
+        display: none;
+    }
+
+
+    header .book-main-toggler {
+        width: 110px;
+        text-align: center;
+        font-size: 12px;
+        line-height: 15px;
+    }
+
+    header .book-main-toggler span {
+        padding-left: 5px;
+        padding-right: 5px;
+    }
+
+    header .phone-desktop {
+        display: none;
+    }
+
+    header .faq-link,
+    header .call-toggler {
+        margin-top: 18px;
+    }
+
+    header .call-toggler {
+        margin-right: 0;
+    }
+
+    header .faq-link {
+        margin-right: 20px;
+    }
+
+    #headbar select.tinynav {
+        display: block;
+        position: absolute;
+        top: 118px;
+    }
+
+    header+.home-benefits-hero,
+    header+.hero-img {
+        padding-top: 117px;
+    }
+
+    header.has-menu+.home-benefits-hero,
+    header.has-menu+.hero-img {
+        padding-top: 158px;
+    }
+
+    header.sticky+.home-benefits-hero,
+    header.sticky+.hero-img {
+        padding-top: 100px;
+    }
+
+    header.sticky.has-menu+.home-benefits-hero,
+    header.sticky.has-menu+.hero-img {
+        padding-top: 158px;
+    }
+
+    .home-benefits-inner {
+        height: 540px;
+        background: url(../UserDocsImages/naslovnica/Medora-Auri-Pool-mobile.jpg) no-repeat center center;
+    }
+
+    .home-benefits-subtitle {
+        font-size: 24px;
+        margin-top: -50px;
+        line-height: 35px;
+        white-space: break-spaces;
+    }
+
+    .home-benefits-content {
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+        align-content: center;
+    }
+
+    .home-benefits-content ul {
+        margin: 20px 10px 10px 5px;
+        padding: 15px 20px;
+        min-height: 70px;
+    }
+
+    .home-benefits-content ul.hbc-list {
+        top: -50px;
+        margin-left: 0;
+    }
+
+    /* .home-benefits-content ul:first-of-type { margin-top: 20px; } */
+    .home-benefits-content .benefit-icon {
+        top: 50%;
+        margin-top: -20px;
+        left: -20px;
+        margin-left: 0;
+        width: 40px;
+        height: 40px;
+    }
+
+    .home-benefits-content .benefit-icon img {
+        height: 20px;
+        margin-top: 10px;
+    }
+
+    .home-benefits-content .benefit-title {
+        font-size: 13px;
+    }
+
+    .home-benefits-content .benefit-name {
+        font-size: 16px;
+        margin-top: 0;
+    }
+
+    .home-benefits-button {
+        margin-top: 30px;
+    }
+
+    .hero-img .hi-text {
+        padding-right: 0;
+        bottom: 20px;
+    }
+
+    .hero-img .hi-text .hi-title {
+        font-size: 30px;
+    }
+
+    .hero-img .hi-text .hi-desc {
+        font-size: 15px;
+    }
+
+    .hero-img .hi-text .hi-button {
+        position: relative;
+        right: auto;
+        margin-top: 20px;
+    }
+
+    .jump-below-fold {
+        display: none;
+    }
+
+    .home-slider-wrapper .badge,
+    .home-slider-wrapper .badge:focus {
+        padding-left: 0;
+        padding-right: 0;
+    }
+
+    .hero-noimg-content {
+        padding: 20px 0;
+    }
+
+    .purple {
+        color: #B79CAC;
+    }
+
+    .main-menu-wrapper {
+        width: 100%;
+        max-width: 320px;
+    }
+
+    .mobile-main-menu-head {
+        height: 100px;
+    }
+
+    .mobile-main-menu-head .title-with-bar {
+        padding-left: 30px;
+        margin-top: 40px;
+        font-size: 25px;
+    }
+
+    .mobile-main-menu-head ul {
+        font-size: 24px;
+    }
+
+    .mobile-menu-close {
+        left: 260px;
+        font-size: 16px;
+    }
+
+    .main-menu {
+        margin-top: 0;
+        margin-bottom: 0;
+        top: 100px;
+        padding-bottom: 30px;
+    }
+
+    .main-menu>ul {
+        padding: 0 30px;
+    }
+
+    .main-menu>ul>li {
+        margin-top: 20px;
+        font-size: 16px;
+    }
+
+    .main-menu-wrapper .links-left {
+        padding: 30px 25px;
+        font-size: 16px;
+    }
+
+    .sub-nav {
+        font-size: 14px;
+    }
+
+
+
+    .page-sub-nav {
+        display: none;
+    }
+
+    .direct-benefits,
+    .special-offers,
+    .text-centered-block,
+    .featured,
+    .facilities,
+    .experience,
+    .location,
+    .awards,
+    .landing-text-block,
+    .special-dark-block,
+    .amenities-facilities,
+    .landing-intro {
+        padding-top: 50px;
+    }
+
+    .section-title {
+        font-size: 30px;
+        line-height: 30px;
+    }
+
+    .section-lead {
+        font-size: 14px;
+        line-height: 18px;
+        margin-top: 20px;
+    }
+
+    .section-bottom {
+        margin-top: 30px;
+    }
+
+    .direct-benefits-item .dbi-title {
+        margin-top: 5px;
+        line-height: 20px;
+        font-size: 20px;
+    }
+
+    .direct-benefits-item .dbi-desc {
+        margin-top: 10px;
+    }
+
+    .direct-benefits .section-body {
+        font-size: 14px;
+    }
+
+    .direct-benefits-item {
+        width: 100%;
+        padding-top: 30px;
+        padding-bottom: 0;
+        border-bottom: 0;
+    }
+
+    .direct-benefits-item:nth-child(2n+2) {
+        margin-left: 0;
+    }
+
+    .direct-benefits-item:nth-child(3),
+    .direct-benefits-item:nth-child(4) {
+        border-top: 0;
+    }
+
+    .direct-benefits-item ul {
+        padding-left: 35px;
+    }
+
+    .direct-benefits-item .numeral {
+        font-size: 18px;
+    }
+
+    .text-centered-block .section-body {
+        font-size: 15px;
+        line-height: 22px;
+        margin-top: 20px;
+    }
+
+    .owl-controls .owl-prev {
+        margin-left: -80px;
+        bottom: -5px;
+    }
+
+    .owl-controls .owl-next {
+        margin-right: -80px;
+        bottom: -5px;
+    }
+
+    .owl-controls .owl-prev::before,
+    .owl-controls .owl-next::before {
+        font-size: 20px;
+    }
+
+    .owl-controls .owl-dot {
+        width: 10px;
+        height: 30px;
+    }
+
+    .owl-controls .owl-dot span {
+        height: 15px;
+    }
+
+    .owl-controls .owl-dot.active span {
+        height: 30px;
+    }
+
+    .home-slider .hi-text {
+        padding-left: 35px;
+        padding-right: 35px;
+    }
+
+    .home-slider .hi-text .hi-title {
+        font-size: 30px;
+        line-height: 30px;
+        font-weight: 400;
+    }
+
+    .home-slider .hi-text .hi-desc {
+        font-size: 18px;
+        margin-top: 20px;
+        line-height: 20px;
+    }
+
+    .home-slider .hi-text .hi-button {
+        margin-top: 20px;
+    }
+
+    .home-slider .owl-controls .owl-prev {
+        left: 15px;
+    }
+
+    .home-slider .owl-controls .owl-next {
+        right: 15px;
+    }
+
+    .home-slider .owl-controls .owl-dots {
+        bottom: -30px;
+    }
+
+    .home-slider .owl-controls .owl-dot span {
+        vertical-align: top;
+    }
+
+    .special-offers .owl-carousel {
+        margin-top: 30px;
+    }
+
+    .special-offers-item .item-title {
+        font-size: 25px;
+        line-height: 30px;
+    }
+
+    .special-offers-item .item-benefit {
+        font-size: 18px;
+        margin-top: 10px;
+    }
+
+    .special-offers-item .item-desc {
+        font-size: 14px;
+        margin-top: 20px;
+        line-height: 22px;
+    }
+
+    .special-offers-item .item-btn {
+        margin-top: 20px;
+    }
+
+    .special-offers .owl-carousel {
+        padding-bottom: 60px;
+    }
+
+    .featured-item {
+        display: block;
+    }
+
+    .featured-item-body {
+        float: right;
+        display: block;
+        width: 100%;
+        padding-right: 0;
+    }
+
+    .featured-item-title {
+        font-size: 25px;
+        line-height: 30px;
+        margin-top: 10px;
+    }
+
+    .featured-item-desc {
+        margin-top: 20px;
+        padding-right: 0;
+    }
+
+    .featured-item-btn {
+        margin-top: 20px;
+    }
+
+    .featured .owl-carousel {
+        padding-bottom: 60px;
+    }
+
+    .featured-item-art {
+        float: left;
+        display: block;
+        padding: 0;
+    }
+
+    .featured-item-art .big-pic {
+        position: relative;
+        width: 100%;
+        margin-top: 30px;
+    }
+
+    .featured-item-art .small-pic {
+        display: none;
+    }
+
+    footer {
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+
+    footer .link-group {
+        width: 100%;
+        margin: 20px 0 1% 0;
+    }
+
+    footer .link-group:first-child {
+        margin-top: 0;
+    }
+
+    footer .link-group:last-child {
+        width: 100%;
+    }
+
+    footer .mobile-arrow::after {
+        display: inline-block;
+        margin-left: 10px;
+        font-family: 'medora';
+        content: '\64';
+        font-size: 12px;
+    }
+
+    footer .link-group .link-list {
+        display: none;
+    }
+
+    footer .newsletter-signup {
+        display: block;
+        margin-bottom: 30px;
+    }
+
+
+    footer .social {
+        display: inline-block;
+        width: 100%;
+        margin-bottom: 0;
+    }
+
+    /* media max 767 */
+    .copyright-footer {
+        text-align: left;
+        font-size: 13px;
+    }
+
+    .partners {
+        padding: 20px 0 30px 0;
+    }
+
+    .partners .partner-logos span {
+        margin: 10px;
+    }
+
+    .back-to-top {
+        font-size: 20px;
+        right: 10px;
+    }
+
+    .book-now-inner {
+        padding: 0;
+    }
+
+    .book-now-inner .container {
+        padding: 20px;
+    }
+
+    .book-now-close {
+        width: 60px;
+        height: 60px;
+        font-size: 15px;
+    }
+
+    .book-now-close span {
+        top: 20px;
+    }
+
+    .book-now-wrapper .section-title {
+        font-size: 25px;
+        margin-top: 40px;
+        margin-bottom: 40px;
+    }
+
+    .book-form {
+        border-bottom: 0;
+    }
+
+    .book-form .bootstrap-select .btn .filter-option,
+    .book-form .bootstrap-select.btn-group .dropdown-toggle .caret::before,
+    .book-form .book-form-dates {
+        font-size: 18px;
+    }
+
+    .book-form>div {
+        padding-bottom: 30px;
+    }
+
+    .book-form .book-form-label {
+        font-size: 16px;
+    }
+
+    .book-form .bootstrap-select .btn,
+    .book-form .book-form-dates {
+        padding-top: 0;
+        padding-bottom: 0;
+    }
+
+    .book-form .book-form-range>span {
+        font-size: 15px;
+        top: 8px;
+        right: 10px;
+    }
+
+    .book-form .bootstrap-select.btn-group .dropdown-toggle .caret {
+        top: 8px;
+    }
+
+    .book-form .bootstrap-select.btn-group .dropdown-toggle .caret::before {
+        font-size: 14px;
+    }
+
+    .book-form .bootstrap-select .dropdown-menu {
+        font-size: 14px;
+    }
+
+    .book-form .bootstrap-select .dropdown-menu>li>a {
+        padding: 8px 15px;
+    }
+
+    .book-now-benefits {
+        display: none;
+    }
+
+    .path {
+        padding: 30px 0 0 0;
+    }
+
+    .breadcrumbs {
+        font-size: 12px;
+    }
+
+    header+.path {
+        padding-top: 90px;
+    }
+
+    header.sticky+.path {
+        padding-top: 90px;
+    }
+
+    .blk-text-pic {
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: column-reverse;
+    }
+
+    .blk-body,
+    .blk-pic {
+        display: block;
+        max-width: 100%;
+    }
+
+    .blk-body .blk-text {
+        margin-top: 20px;
+        padding-right: 40px;
+    }
+
+    .blk-body .blk-button {
+        margin-top: 10px;
+    }
+
+    .blk-body .blk-button .btn {
+        margin-top: 15px;
+        margin-right: 15px;
+    }
+
+    .blk-pic {
+        max-width: 610px;
+        margin-top: 40px;
+        margin-left: 0;
+        margin-right: 0;
+        margin-bottom: 20px;
+    }
+
+    .facilities .owl-carousel {
+        padding-top: 30px;
+    }
+
+    .facilities .owl-carousel .owl-item a {
+        font-size: 16px;
+    }
+
+    .facilities .owl-carousel .owl-nav {
+        bottom: -75px;
+    }
+
+    .facilities .owl-carousel .owl-prev {
+        margin-left: -120px;
+    }
+
+    .facilities .owl-carousel .owl-next {
+        margin-right: -120px;
+    }
+
+    .experience .art,
+    .featured .art {
+        display: none;
+    }
+
+    .experience .featured-item .title-with-bar,
+    .featured .featured-item .title-with-bar {
+        display: block;
+        text-align: center;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .experience .featured-item .featured-item-title,
+    .featured .featured-item .featured-item-title {
+        text-align: center;
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+
+    .experience .owl-carousel,
+    .featured .owl-carousel {
+        padding-top: 30px;
+        padding-bottom: 60px;
+    }
+
+    .experience .owl-nav,
+    .featured .owl-nav {
+        bottom: auto;
+        top: 121px;
+    }
+
+    .experience .owl-carousel .owl-prev,
+    .featured .owl-carousel .owl-prev {
+        left: 0;
+        margin-left: 0;
+    }
+
+    .experience .owl-carousel .owl-next,
+    .featured .owl-carousel .owl-next {
+        right: 0;
+        margin-right: 0;
+    }
+
+    .hash-tabs {
+        display: none;
+    }
+
+    .awards .owl-carousel .owl-nav {
+        bottom: -75px;
+    }
+
+    .awards .owl-carousel .owl-prev {
+        margin-left: -120px;
+    }
+
+    .awards .owl-carousel .owl-next {
+        margin-right: -120px;
+    }
+
+    .location .destination-map {
+        margin-top: 30px;
+        height: 320px;
+    }
+
+    .home-slider-wrapper .badge {
+        right: 20px;
+        bottom: -40px;
+        width: 80px;
+        height: 80px;
+    }
+
+    .home-slider-wrapper .badge span {
+        font-size: 14px;
+        line-height: 16px;
+    }
+
+    .path+.landing-text-block {
+        padding-top: 0;
+    }
+
+    .landing-tb-inner h2 {
+        margin-bottom: 20px;
+    }
+
+    .landing-text-block .read-more {
+        margin-top: 20px;
+    }
+
+    .grid-3 {
+        margin-left: -2%;
+        margin-right: -2%;
+    }
+
+    .grid-item {
+        margin-top: 30px;
+        width: 46%;
+        margin-left: 2%;
+        margin-right: 2%;
+    }
+
+    .grid-item img {
+        margin-bottom: 20px;
+    }
+
+    .grid-item .grid-item-title {
+        font-size: 20px;
+        line-height: 20px;
+    }
+
+    .grid-item .grid-item-text,
+    .grid-item .grid-item-features,
+    .grid-item .grid-item-btn {
+        margin-top: 10px;
+    }
+
+    .grid-item .grid-item-features li {
+        font-size: 16px;
+        padding-right: 10px;
+    }
+
+    .grid-item .grid-item-features li::before {
+        padding-left: 10px;
+    }
+
+    .grid-item .grid-item-btn .btn+.btn-ghost {
+        margin-left: 0;
+    }
+
+    .special-dark-block {
+        padding-bottom: 50px;
+        margin-top: 50px;
+    }
+
+    .special-dark-block .art {
+        display: none;
+    }
+
+    .list-with-checks ul {
+        width: 100%;
+        font-size: 16px;
+        padding-top: 0;
+        padding-bottom: 0;
+    }
+
+    .list-with-checks ul li {
+        padding-right: 30px;
+        padding-left: 30px;
+    }
+
+    .list-with-checks ul li::before {
+        font-size: 12px;
+        margin-right: 18px;
+        margin-left: -30px;
+    }
+
+    .landing-sf-inner>div {
+        padding-bottom: 40px;
+    }
+
+    .landing-short-features ul li {
+        font-size: 20px;
+        line-height: 25px;
+    }
+
+    .landing-short-features .feature-label {
+        margin-bottom: 5px;
+        font-size: 14px;
+    }
+
+    .landing-short-features .feature-pos1 {
+        width: 70%;
+        padding-right: 30px;
+    }
+
+    .landing-short-features .feature-pos2 {
+        width: 30%;
+        padding-left: 30px;
+        padding-right: 0;
+    }
+
+    .landing-short-features .feature-pos3 {
+        display: none;
+    }
+
+    .path+.landing-short-features {
+        padding-top: 0;
+    }
+
+    .gallery-squares {
+        padding-top: 30px;
+    }
+
+    .gallery-squares .owl-carousel .owl-nav {
+        bottom: -75px;
+    }
+
+    .gallery-squares .owl-carousel .owl-prev {
+        margin-left: -120px;
+    }
+
+    .gallery-squares .owl-carousel .owl-next {
+        margin-right: -120px;
+    }
+
+    .grid-2 {
+        margin-left: -2%;
+        margin-right: -2%;
+    }
+
+    .grid-2 .grid-item {
+        width: 46%;
+        margin-left: 2%;
+        margin-right: 2%;
+    }
+
+    .grid-2 .grid-item .grid-item-title,
+    .grid-2 .grid-item .grid-item-text,
+    .grid-2 .grid-item .grid-item-btn {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+
+    .contact-form {
+        padding-left: 60px;
+        padding-right: 60px;
+    }
+
+    .contact-form-block .textbox,
+    .contact-form-block textarea {
+        font-size: 16px;
+        padding: 15px 20px;
+    }
+
+    .contact-form .text-area {
+        height: 100px !important;
+    }
+
+    #porukaok {
+        margin-top: 30px;
+    }
+
+    .faq {
+        padding-top: 0;
+    }
+
+    .faq-cats {
+        margin-left: -2%;
+        margin-right: -2%;
+        padding-top: 30px;
+    }
+
+    .faq-cats a {
+        width: 46%;
+        padding: 20px 15px;
+        margin-left: 2%;
+        margin-right: 2%;
+    }
+
+    .faq-cats a .title {
+        font-size: 15px;
+        line-height: 20px;
+        margin-top: 10px;
+    }
+
+    .faq-cats a span:first-child img {
+        max-width: 40%;
+    }
+
+    .faq-cats a:nth-child(4n+1),
+    .faq-cats a:nth-child(3n+1) {
+        margin-left: 2%;
+    }
+
+    .faq-search {
+        display: block;
+        box-shadow: none;
+    }
+
+    .faq-search li {
+        display: block;
+    }
+
+    .faq-search {
+        width: 100%;
+        max-width: 400px;
+        margin-top: 40px;
+    }
+
+    .faq-search .search-field {
+        border: 1px solid #CDCFD7;
+    }
+
+    .faq-search .search-field input {
+        font-size: 16px;
+        padding-top: 12px;
+        padding-bottom: 13px;
+    }
+
+    .faq-search .search-btn {
+        width: 100%;
+    }
+
+    .faq-search .search-btn .btn {
+        width: 120px;
+        padding-top: 10px;
+        padding-bottom: 11px;
+        margin-top: 15px;
+    }
+
+    .quick-searches {
+        margin-top: 35px;
+        max-width: 100%;
+    }
+
+    .quick-searches a {
+        margin-top: 5px;
+        margin-bottom: 5px;
+    }
+
+    .gallery-thumbs {
+        margin-left: -2%;
+        margin-right: -2%;
+    }
+
+    .gallery-thumbs a {
+        width: 46%;
+        margin: 10px 2%;
+    }
+
+    .gallery-thumbs a img {
+        width: 100% !important;
+    }
+
+    header .quick-phone {
+        display: inline-block;
+        margin-top: 15px;
+        font-size: 20px;
+        padding: 5px;
+        padding-right: 0;
+        margin-left: 15px;
+    }
+
+    header .quick-phone svg {
+        width: 16px;
+    }
+
+    header .quick-phone-path {
+        fill: #c3c4c6;
+    }
+
+    .wrapper404 {
+        padding-top: 70px;
+    }
+
+    .text404 {
+        padding: 30px 20px;
+        font-size: 20px;
+        line-height: 25px;
+    }
+
+    .text404>div {
+        text-align: center;
+    }
+
+    .filter {
+        width: 100%;
+    }
+
+    .table-results table {
+        display: block;
+    }
+
+    .table-results table td {
+        display: block;
+    }
+
+    .table-results thead {
+        display: none;
+    }
+
+    .table-results tbody tr {
+        position: relative;
+        display: block;
+        padding: 15px 0;
+        border-top: 1px solid #ddd;
+    }
+
+    .table-results tbody td {
+        padding: 0;
+        border: 0;
+    }
+
+    .table-results .tr-date {
+        width: 100%;
+        color: #7B7E87;
+    }
+
+    .table-results .tr-time {
+        width: auto;
+        position: absolute;
+        right: 0;
+        top: 15px;
+    }
+
+    .table-results .tr-location {
+        width: 100%;
+        padding-left: 0;
+        font-style: italic;
+        color: #7B7E87;
+    }
+
+    .newsletter {
+        margin-top: 50px;
+        padding: 40px 0;
+    }
+
+    .newsletter ul {
+        width: 80%;
+    }
+
+    .newsletter ul .textbox {
+        padding: 11px 15px;
+    }
+
+    .newsletter-gdpr {
+        font-size: 14px;
+    }
+
+    .ctn-dropdown {
+        left: -120px;
+    }
+
+    .rooms-item h3 {
+        bottom: 15px;
+        left: 15px;
+        font-size: 18px;
+    }
+
+    .de .rooms-item h3 {
+        font-size: 15px;
+        left: 10px;
+    }
+
+    .rooms-item:hover h3 {
+        -webkit-transform: none;
+        transform: none;
+    }
+
+    .cookie-banner-close {
+        position: absolute;
+    }
+
+    .cb-btn {
+        margin-top: 10px;
+    }
+
+}
+
+
+@media only screen and (max-width: 639px) {
+    .hero-img.sakrij {
+        display: block;
+    }
+
+    .home-benefits-title {
+        font-size: 25px;
+    }
+
+    .path3 {
+        padding: 0px 0 0 0;
+    }
+
+    .path {
+        padding: 0px 0 0 0;
+    }
+
+    .special-offers-home-content h2 {
+        font-size: 30px;
+    }
+
+    .gallery-list {
+        padding: 0 0 0 15px;
+    }
+
+    .gallery-list li,
+    .gallery-list li:first-child,
+    .gallery-list li:last-child {
+        width: 50%;
+        padding: 0 5px 5px 5px;
+        margin: 0;
+    }
+
+    .home-title {
+        font-size: 25px;
+        margin-top: 30px;
+    }
+
+    .gallery-home h2 {
+        text-align: left;
+        margin: 0 0 15px 20px;
+    }
+
+    .rooms-wrapper h2 {
+        text-align: left;
+        margin: 0 0 15px 0;
+    }
+
+    .benefits-item h3 {
+        font-size: 18px;
+    }
+
+    .de .benefits-item h3 {
+        font-size: 14px;
+    }
+
+    .gallery-view-all {
+        position: absolute;
+        right: 20px;
+        top: -40px;
+        padding: 0;
+        width: auto;
+        z-index: 2;
+    }
+
+    .newsletter ul {
+        width: 80%;
+
+    }
+
+    .newsletter ul .btn {
+        max-width: fit-content;
+    }
+
+    .brojPoruka {
+        font-size: 14px;
+    }
+
+    /* CLS */
+    .sub-hero-cls-container {
+        position: relative;
+        height: 0;
+        padding-bottom: 75%;
+    }
+
+    .sub-hero-cls-container img {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+    }
+
+    .children-left {
+        padding-right: 5px;
+    }
+
+    .children-right {
+        padding-left: 5px;
+    }
+
+    .breadcrumbs {
+        display: none;
+    }
+
+}
+
+@media only screen and (max-width:566px) {
+
+    .popUp-homm.aktivan .imgWrap {
+
+        padding: 10px;
+        top: 100px;
+    }
+
+    .right-side-header {
+        top: 15px;
+    }
+
+    header .send-inquiry {
+        margin: 0 -5px 0 0;
+        line-height: normal;
+        padding: 12px 40px;
+        font-size: 16px;
+    }
+	
+	 header.header-de .send-inquiry {
+        margin: 0 -5px 0 0;
+        line-height: normal;
+        padding: 12px 35px;
+        font-size: 16px;
+    }
+
+    .home-benefits-content ul {
+        margin: 10px 0px 0px 0px;
+        min-height: 85px;
+        display: flex;
+    }
+
+    .pop-toggle {
+        float: left;
+        position: relative;
+        left: 30px;
+    }
+	
+	header.header-de .pop-toggle{
+		left: 20px;
+	}
+
+    .popUp {
+        flex-direction: column;
+    }
+
+    .popUp-content {
+        width: 100%;
+        padding: 30px;
+    }
+
+    .popUp-slika {
+        width: 100%;
+        height: 250px;
+    }
+
+
+
+}
+
+@media only screen and (min-width:481px) and (max-width:991px) {
+    .fixed-btns .btn {
+        width: auto;
+    }
+
+    .fixed-btns .ctn-dropdown a:hover {
+        color: #fff;
+    }
+}
+
+
+@media only screen and (min-width:481px) and (max-width:536px) {
+    .home-benefits-content ul {
+        width: 315px;
+        margin-top: 5px;
+    }
+
+    .home-benefits-button {
+        margin-top: 20px;
+    }
+
+}
+
+
+
+
+@media only screen and (max-width: 480px) {
+
+
+    .cookie-banner .cb-col {
+        display: block;
+    }
+
+    .cookie-banner .cb-col+.cb-col {
+        width: auto;
+        text-align: left;
+        padding: 0 0 10px 0;
+    }
+
+
+    .home-benefits-content ul {
+        width: 98%;
+        margin-top: 5px;
+        min-height: 80px;
+    }
+
+    .home-benefits-content ul.hbc-list {
+        margin-top: 80px;
+        margin-bottom: -20px;
+    }
+
+    .fixed-btns .ctn-dropdown {
+        bottom: auto;
+    }
+
+}
+
+
+
+@media only screen and (max-width: 479px) {
+
+    /*ovo*/
+    header {
+        text-align: left;
+    }
+
+    header .mobile-menu-trigger {
+        position: relative;
+        top: 14px;
+    }
+
+    .hom-img {
+        max-width: 120px;
+    }
+
+    .pop-toggle {
+        margin-left: 0px;
+        margin-right: 0;
+        top: 20px;
+        /* position: absolute; */
+        /* left: 50%; */
+        /* transform: translateX(-57%); */
+
+    }
+	
+	header.header-de .pop-toggle{
+		left:20px;
+	}
+
+    .right-side-header {
+        top: 17px; 
+    }
+	
+	.mm-lijevi{
+		margin-left:15px;
+	}
+
+    header .send-inquiry {
+        padding: 10px 30px;
+    }
+	
+	 header.header-de .send-inquiry {
+        padding: 10px 20px;
+    }
+
+    /*ovo*/
+
+    .add_space_mobile {
+        padding-top: 10px;
+    }
+
+    label {
+        font-size: 12px;
+    }
+
+    header {
+        /* height: 55px; */
+        z-index: 999;
+    }
+
+    header .logo {
+        margin-top: 13px;
+    }
+
+    header .logo img {
+        width: 100px;
+        height: 30px;
+    }
+
+    header+.path2 {
+        padding-top: 120px;
+    }
+
+
+
+    .hero-img .hi-text .hi-title {
+        font-size: 25px;
+    }
+
+    .home-benefits-wrapper {
+        padding: 0 15px;
+    }
+
+    .home-benefits-wrapper .benefits-slider {
+        font-size: 13px;
+        margin: 0 0 10px 0 !important;
+    }
+
+    .home-benefits-wrapper .benefits-slider li,
+    .home-benefits-wrapper .benefits-slider li:first-child,
+    .home-benefits-wrapper .benefits-slider li:last-child {
+        margin: 0 5px 5px 5px;
+    }
+
+    .home-benefits-button {
+        margin-top: 20px;
+    }
+
+    .right-side-header {
+        /* top: 9px; */
+    }
+
+    header+.home-benefits-hero,
+    header+.hero-img,
+    header+.home-slider-wrapper {
+        padding-top: 100px;
+    }
+
+    .sekcija.upit_forma {
+        margin-top: 0px;
+    }
+
+    .home-benefits-title {
+        font-size: 21px;
+    }
+
+    .home-benefits-button .btn,
+    .special-offers-home-content .btn {
+        font-size: 13px;
+    }
+
+    .special-offers-home-content h3 {
+        font-size: 14px;
+        margin: 0 0 15px 0;
+    }
+
+    .special-offers-home-content h2 {
+        font-size: 18px;
+        line-height: 1.2;
+    }
+
+    .gallery-home h2,
+    .rooms-wrapper h2 {
+        font-size: 18px;
+    }
+
+    .grid-3,
+    .grid-item {
+        margin-left: 0;
+        margin-right: 0;
+    }
+
+    .grid-item {
+        width: 100%;
+    }
+
+    .grid-item .grid-item-pic span {
+        font-size: 40px;
+        margin: -35px 0 0 -20px;
+    }
+
+    .list-with-checks.three-cols ul li {
+        width: 100%;
+    }
+
+    .landing-sf-inner>div,
+    .landing-sf-inner>div>div {
+        display: block;
+        border-left: 0;
+    }
+
+    .landing-short-features .feature-pos1 {
+        width: 100%;
+        padding-right: 0;
+    }
+
+    .landing-short-features .feature-pos2 {
+        width: 100%;
+        padding-left: 0;
+        padding-top: 30px;
+    }
+
+    .grid-2 {
+        margin-left: 0;
+        margin-right: 0;
+    }
+
+    .grid-2 .grid-item {
+        width: 100%;
+        margin-left: 0;
+        margin-right: 0;
+    }
+
+
+    .contact-form {
+        padding-left: 0;
+        padding-right: 0;
+    }
+
+    .tableZones,
+    .tableZones tbody,
+    .tableZones tr {
+        display: block;
+    }
+
+    .tableZones td {
+        display: inline-block;
+        width: 49%;
+        padding-top: 15px;
+        padding-bottom: 15px;
+    }
+
+    .gallery-thumbs {
+        margin-left: -3%;
+        margin-right: -3%;
+    }
+
+    .gallery-thumbs a {
+        width: 44%;
+        margin-left: 3%;
+        margin-right: 3%;
+    }
+
+
+
+    header .book-main-toggler {
+        width: auto;
+        position: absolute;
+        top: 60px;
+        left: 0;
+        right: 0;
+        height: 40px;
+    }
+
+    header.sticky .book-main-toggler {
+        padding: 0;
+    }
+
+    .wrapper404 {
+        padding-top: 100px;
+    }
+
+    .text404>div,
+    .text404 ul li:first-child {
+        margin-bottom: 20px;
+    }
+
+    .art404 img {
+        max-width: 90%;
+    }
+
+    .newsletter ul {
+        width: 100%;
+    }
+
+    .benefits-wrapper .home-title {
+        font-size: 16px;
+        line-height: 1.3;
+        margin-top: 20px;
+    }
+
+    .benefits-wrapper .price-subs {
+        font-size: 20px;
+        line-height: 25px;
+    }
+
+
+    .benefits-item h3 {
+        font-size: 14px;
+        font-weight: 600;
+    }
+
+    .benefits-inner-wrapper a {
+        margin-right: 10px;
+        max-width: 100%;
+        width: 33.33333%;
+    }
+
+    .benefits-inner-wrapper img {
+        max-width: 100px;
+    }
+
+    .benefits-wrapper {
+        padding: 35px 20px;
+    }
+
+
+    .gallery-list {
+        padding: 0 0 0 15px;
+    }
+
+    .rooms-wrapper {
+        padding: 30px 0 30px 15px;
+    }
+
+    .benefits-intro {
+        margin: 0 0 15px 0;
+    }
+
+    .benefits-wrapper .benefits-intro h3 {
+        margin: 10px 0 0 0;
+    }
+
+    .home-title {
+        font-size: 20px;
+    }
+
+    .newsletter {
+        margin-top: 30px;
+    }
+
+    .infochat_custommain,
+    .infochat_floatmain,
+    .infochat_theme1 .infochat_cnt,
+    .infochat_theme2 .infochat_flt_rel {
+        bottom: 80px !important;
+    }
+
+    .rooms-item h3 {
+        font-size: 15px;
+        left: 10px;
+        bottom: 10px;
+        right: 10px;
+        -webkit-transform: none;
+        transform: none;
+    }
+
+    .de .rooms-item h3 {
+        font-size: 13px;
+        left: 2px;
+        right: 2px;
+    }
+
+    .fixed-btns {
+        top: auto;
+        right: 0;
+        bottom: 0;
+        left: 0;
+        text-align: center;
+        padding: 10px 0;
+        background: rgba(255, 255, 255, .8);
+        z-index: 999999999;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .fixed-btns .btn {
+        display: inline-block;
+        border-radius: 6px;
+        margin: 0 10px;
+        width: 45%;
+        padding: 12px 19px;
+        /* white-space: inherit; */
+        font-size: 12px;
+    }
+
+    .fixed-btns .btn {
+        margin: 0;
+    }
+
+    .fixed-btns .call-toggler {
+        margin: 0 0 0 10px;
+        position: relative;
+    }
+
+    .fixed-btns .ctn-dropdown {
+        left: 0;
+        right: 0;
+        top: -170px;
+        padding: 20px;
+        background: #009bdb;
+        max-width: 210px;
+        width: 100%;
+        font-size: 17px;
+    }
+
+    .fixed-btns .ctn-dropdown::after {
+        content: '';
+        width: 0;
+        height: 0;
+        border-style: solid;
+        border-width: 10px 8px 0 8px;
+        border-color: #0099db transparent transparent transparent;
+        position: absolute;
+        bottom: -10px;
+        left: 0;
+        right: 0;
+        margin: 0 auto;
+        top: auto;
+    }
+
+    .room-options::after {
+        display: block;
+    }
+
+    .fixed-btns .ctn-dropdown>li {
+        margin: 20px 0;
+    }
+
+    .fixed-btns .ctn-dropdown>li:first-child {
+        margin: 0 0 20px 0;
+    }
+
+    .fixed-btns .ctn-dropdown>li:last-child {
+        margin: 20px 0 0 0;
+    }
+
+    .fixed-btns .ctn-dropdown svg {
+        stroke: #fff;
+    }
+
+    .fixed-btns .ctn-dropdown .chat-bk:hover .chat-svg-bk,
+    .fixed-btns .ctn-dropdown .phone-bk:hover .phone-svg-bk,
+    .fixed-btns .ctn-dropdown .mail-bk:hover .mail-svg-bk {
+        stroke: #fff;
+    }
+
+    .ctn-dropdown a,
+    .ctn-dropdown a:hover,
+    .ctn-dropdown a:focus,
+    .ctn-dropdown a:active {
+        color: #ffffff;
+        text-decoration: none;
+    }
+
+    footer .link-group-title {
+        font-size: 15px;
+    }
+
+    footer .link-group .link-list {
+        font-size: 14px;
+    }
+
+    footer {
+        padding: 30px 0;
+    }
+
+    .newsletter {
+        padding: 10px 0;
+    }
+
+
+    .partners .eu-project {
+        margin: 0;
+        padding: 0 15px;
+    }
+
+    .partners .eu-project img {
+        max-width: 70%;
+    }
+
+    .newsletter ul .btn {
+        max-width: fit-content;
+        padding: 10px 20px;
+    }
+
+    .newsletter .section-lead {
+        margin-top: 10px;
+    }
+
+    .newsletter ul {
+        margin-top: 20px;
+    }
+
+    .newsletter ul li:first-of-type {
+        padding-bottom: 15px;
+    }
+
+    .newsletter-gdpr {
+        margin-top: 15px;
+    }
+
+    .contact-us-group {
+        display: none;
+    }
+
+    .special-offers-home-content h2 {
+        margin: 0 0 15px 0;
+    }
+
+    #frmPhobs .contact-form-block select,
+    #frmPhobs .contact-form-block input {
+        height: 55px;
+    }
+
+    #frmPhobs .contact-form-block .textbox,
+    #frmPhobs .contact-form-block textarea {
+        padding: 11px 10px 0px 5px;
+        font-size: 14px;
+    }
+
+    .contact-form .text-area {
+        height: 70px !important;
+    }
+
+    #frmPhobs .contact-form-block {
+        margin: 0 0 10px 0;
+    }
+
+    #frmPhobs label {
+        top: -2px;
+        font-size: 12px;
+        left: 7px;
+    }
+
+    #frmPhobs .contact-form-block .textbox.dest_choice_select,
+    #frmPhobs .contact-form-block input.phobs_datum_input {
+        padding: 8px 10px 6px 5px;
+    }
+
+    header.has-menu+.home-benefits-hero,
+    header.has-menu+.hero-img {
+        padding-top: 140px;
+    }
+
+    .page-sub-nav.sticky+.path {
+        margin-top: 0;
+    }
+
+    .benefits-inner-wrapper {
+        margin-top: 0;
+    }
+
+    .de .benefits-item h3 {
+        font-size: 13px;
+    }
+
+    .booking-redirect {
+        display: none !important;
+    }
+
+    .chooseRoom-mobile {
+        position: relative;
+        display: inline-block !important;
+        background-color: #012B59;
+    }
+
+    .room-options {
+        display: none;
+
+    }
+
+    .room-options.active {
+        display: flex;
+        justify-content: space-evenly;
+        position: absolute;
+        bottom: 104%;
+        background: #012B59;
+        padding: 15px;
+        max-width: 100%;
+        left: 0;
+        width: 100%;
+    }
+
+
+
+
+    .room-options::after {
+        content: '';
+        width: 0;
+        height: 0;
+        border-style: solid;
+        border-width: 10px 8px 0 8px;
+        border-color: #012B59 transparent transparent transparent;
+        position: absolute;
+        bottom: -10px;
+        left: -150px;
+        right: 0;
+        margin: 0 auto;
+        top: auto;
+    }
+
+    .room-options a {
+        display: flex;
+        flex-direction: column;
+        /* align-items:flex-start; */
+        text-align: left;
+        color: #fff;
+        margin: 5px;
+        font-size: 13px;
+        width: 33%;
+    }
+
+    .room-options a span {
+        margin-top: 7px;
+    }
+	
+	.whatsapp-chat {
+		bottom: 70px;
+		right: 15px;
+	}
+	
+	.whatsapp-ico {
+		width: 40px;
+		height: 40px;
+		background-size: 25px auto;
+	}
+	
+	.whatsapp-chat .bubble {
+		font-size: 13px;
+		padding: 7px 15px;
+	}
+
+
+}
+
+@media only screen and (max-width:399px) {
+
+    /*ovo*/
+    header .send-inquiry {
+        padding: 10px 20px;
+    }
+	
+	header.header-de  .send-inquiry {
+        margin: 0 0px 0 0;
+        padding: 10px 10px;
+        font-size: 14px;
+    }
+	
+	.right-side-header{
+		right:10px;
+	}
+
+    /*ovo*/
+}
+
+@media only screen and (max-width:375px) {
+
+    /*ovo*/
+    .right-side-header {
+      
+        top: 17px;
+    }
+
+    header .send-inquiry {
+        margin: 0 0px 0 0;
+        padding: 10px 17px;
+        font-size: 14px;
+    }
+
+    .pop-toggle {
+        top: 22px;
+        left: 15px;
+    }
+	
+	
+	    header.header-de .pop-toggle {
+        top: 22px;
+        left: 15px;
+		
+    }
+	
+	header.header-de  .hom-img {
+		max-width: 110px;
+	}
+	
+
+    /*ovo*/
+
+
+    .fixed-btns .btn {
+        padding: 12px 5px;
+        font-size: 10px;
+    }
+
+    .room-options.active {
+        padding: 10px;
+    }
+
+    .room-options a span {
+        font-size: 11px;
+    }
+
+
+    .de .rooms-item h3 {
+        font-size: 11px;
+        left: 0;
+        right: 0;
+    }
+
+    .de .benefits-item h3 {
+        font-size: 11px;
+    }
+
+    header+.home-benefits-hero {
+        padding-top: 93px;
+    }
+
+
+    .header-main-cats li:first-child {
+        margin: 0 15px 0 0;
+    }
+
+    .header-main-cats li:last-child {
+        margin: 0 0 0 15px;
+    }
+
+    .home-benefits-title {
+        margin-top: -10px;
+        font-size: 22px;
+        line-height: 25px;
+    }
+
+    .home-benefits-subtitle {
+        font-size: 18px;
+        line-height: 25px;
+    }
+
+    .home-benefits-content ul {
+        margin-top: 3px;
+    }
+
+
+
+    .home-benefits-button {
+        margin-top: 20px;
+    }
+}
+
+@media all and (max-width:350px) {
+    .right-side-header {
+        top: 21px;
+    }
+
+    header .send-inquiry {
+        font-size: 12px;
+        padding: 8px 13px;
+
+    }
+	
+	  header.header-de .send-inquiry {
+        font-size: 12px;
+        padding: 8px 8px;
+
+    }
+
+}
